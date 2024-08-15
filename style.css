@@ -1,0 +1,37 @@
+.matemasie-regular {
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body {
+background-color: lightblue;
+font-family: "Matemasie", sans-serif;
+}
+
+
+img {
+object-fit: cover;
+height: 10em;
+width: 10em;
+}
+
+
+ nav ul li:last-child a {
+    color: black;
+  
+}
+
+
+
+nav ul li:last-child {
+    list-style: none;
+}
+
+p span {
+color: blue;
+}
+
+nav, #legobillede {
+display:flex
+}
